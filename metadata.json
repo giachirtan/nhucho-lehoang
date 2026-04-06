@@ -1,0 +1,5 @@
+{
+  "name": "Markdown to Rich Text Converter",
+  "description": "Convert Markdown to rich text and copy it without formatting distortion.",
+  "requestFramePermissions": ["clipboard-write"]
+}
